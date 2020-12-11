@@ -8,7 +8,7 @@ def main():
     p = (a - 50) * 4
     if p < 0:
       p = 0
-    print(f'O peixe tem {a}kg, a multa devida é {p:.2f}.')
+    print(f'O peixe pescado tem {a}kg, a multa devida é R$ {p:.2f}.')
 
 
 if __name__ == '__main__':
